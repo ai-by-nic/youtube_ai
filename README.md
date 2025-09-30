@@ -62,7 +62,7 @@ Which title and lightweight timing/channel signals are associated with higher no
 
 ## Outline of project
 
-- Notebook: **EDA + Baseline Modeling** (`Capstone_A20_Results_Notebook.ipynb`)
+- Notebook: [EDA + Baseline Modeling](Capstone_A20_Results_Notebook.ipynb)
 
 ## Contact and Further Information
 
